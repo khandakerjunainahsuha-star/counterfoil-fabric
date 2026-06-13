@@ -137,7 +137,8 @@
     border-color: var(--color-border);
   }
 
-  body {
+  html, body {
+    font-family: "Inter", ui-sans-serif, system-ui, sans-serif;
     background-color: var(--color-background);
     color: var(--color-foreground);
   }
